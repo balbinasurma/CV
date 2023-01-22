@@ -255,6 +255,7 @@ p
 .agreement
 {
   font-size: 12px;
+  text-align: justify;
 }
 
 @media (max-width: 1000px)
@@ -279,7 +280,7 @@ p
   {
     margin-bottom:5px;
   }
-  
+
 
   .skills .box
   {
